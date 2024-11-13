@@ -1,4 +1,3 @@
-//AIzaSyCBnH8gw26-8TqVvSVd5AbBm34gzgN1pLI
 import React, { useState } from 'react';
 import styled from 'styled-components';
 import YouTube from 'react-youtube';
